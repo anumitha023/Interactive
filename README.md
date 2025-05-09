@@ -76,8 +76,10 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-05-10 000021-1.png>)
+
 ![alt text](<Screenshot 2025-05-10 000009-1.png>)
+![Screenshot 2025-05-10 001513](https://github.com/user-attachments/assets/3c0325cd-f090-4bf9-a045-34eb0d2e5b6a)
+
 
 
 ## RESULT:
